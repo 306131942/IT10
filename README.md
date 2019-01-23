@@ -1,8 +1,7 @@
 # luocg
 
-> luocg desc
+> Vue+ElementUIÒ³ÃæÑ§Ï°£¬²ÎÕÕ·¢²¼°ü¹ÜÀí(IT10)£¬°üÀ¨¿Í»§¹ÜÀí£¨EIT17£©¡¢Ä£¿é¹ÜÀí£¨EIT14£©
 
-Vue+ElementUIé¡µé¢å­¦ä¹ ï¼Œå‚ç…§å‘å¸ƒåŒ…ç®¡ç†(IT10)ï¼ŒåŒ…æ‹¬å®¢æˆ·ç®¡ç†ï¼ˆEIT17ï¼‰ã€æ¨¡å—ç®¡ç†ï¼ˆEIT14ï¼‰
 ## Build Setup
 
 ``` bash
