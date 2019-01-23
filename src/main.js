@@ -13,7 +13,7 @@ import './api/axios-config.js'
 // window.axios = axios
 Vue.config.productionTip = false
 
-// 使用el ui
+// 使用el ui  d
 Vue.use(ElementUI)
 /* eslint-disable no-new */
 new Vue({
