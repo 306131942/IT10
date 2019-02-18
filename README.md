@@ -1,6 +1,6 @@
 # luocg
 
-> Vue+ElementUI页面学习，参照发布包管理(IT10)，包括客户管理（EIT17）、模块管理（EIT14）
+> Vue+ElementUI页面学习，参照发布包管理页面，包括客户管理页面、模块管理页面
 
 ## Build Setup
 
